@@ -56,8 +56,7 @@
   "seeders_path": "",
   "seeders_path_attr": "",
   "filesize_path": [
-    "p:contains('[')",
-    "p:contains('Size:')"
+    "p:contains('[')"
   ],
   "filesize_path_attr": "",
   "quality_path": [
