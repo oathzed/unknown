@@ -88,10 +88,10 @@
   "drill_down_path_attr": "href",
   "is_torrent": false,
   "is_direct": true,
-  "links_container_path": "ul.commentList li.comment div.messageBox div.content",
-  "link_path": "div#commentbody p strong a",
+  "links_container_path": "ul.commentList div.messageBox",  // Reduced back to original depth
+  "link_path": "p a",  // General for both formats
   "link_path_attr": "href",
-  "title_path": "div#commentbody p strong",
+  "title_path": "p:not(:has(a))",  // Keep it general for non-link paragraphs
   "title_path_attr": "",
   "details_path": "|title_path|",
   "details_path_attr": "",
@@ -99,7 +99,7 @@
   "magnet_path_attr": "",
   "seeders_path": "",
   "seeders_path_attr": "",
-  "filesize_path": "div#commentbody p strong",
+  "filesize_path": "p:contains('MB')",  // General to include 'MB' for size
   "filesize_path_attr": "",
   "quality_path": "|title_path|",
   "quality_path_attr": "",
