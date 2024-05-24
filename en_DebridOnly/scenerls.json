@@ -34,7 +34,7 @@
   "drill_down_path_attr": "href",
   "is_torrent": false,
   "is_direct": true,
-  "links_container_path": "div.entry-content",
+  "links_container_path": "div.entry-meta entry-meta-header-after div.entry-content",
   "link_path": "a[href*=\"nitroflare.com/view/\"]",
   "link_path_attr": "href",
   "title_path": "p:not(:has(a))",
