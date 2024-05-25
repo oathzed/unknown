@@ -49,6 +49,6 @@
   "filesize_path_attr": "",
   "quality_path": "|link_path|",
   "quality_path_attr": "",
-  "info_path": "|link_path|",
+  "info_path": "|title_path|",
   "info_path_attr": ""
 }
