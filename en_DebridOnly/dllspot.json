@@ -47,8 +47,8 @@
   "seeders_path_attr": "",
   "filesize_path": "p",
   "filesize_path_attr": "text",
-  "quality_path": "|title_path|",
-  "quality_path_attr": "",
+  "quality_path": "a",
+  "quality_path_attr": "href",
   "info_path": "|title_path|",
   "info_path_attr": ""
 }
