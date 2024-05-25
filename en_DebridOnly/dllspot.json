@@ -1,5 +1,5 @@
 {
-  "name": "Main RlsBB2",
+  "name": "Main RlsBB3",
   "language": [
     "hi",
     "en"
@@ -49,6 +49,6 @@
   "filesize_path_attr": "",
   "quality_path": "|link_path|",
   "quality_path_attr": "",
-  "info_path": "a",
+  "info_path": "a:contains('NiTROFLARE')",
   "info_path_attr": "href"
 }
