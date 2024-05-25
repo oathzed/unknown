@@ -1,18 +1,16 @@
 {
-  "name": "Comment RlsBB",
+  "name": "Scene",
   "language": [
     "hi",
     "en"
   ],
   "domains": [
-    "rlsbb.ru",
-    "rlsbb.to",
-    "rlsbb.com",
-    "rlsbb.unblocked.cx"
+    "scene-rls.net",
+    "scene-rls.com"
   ],
   "base_url": "",
   "search_url_format_episode": {
-    "string_format": "https://search.rlsbb.cc/?s=%s+S%02dE%02d",
+    "string_format": "https://scene-rls.net/?s=%s+S%02dE%02d&submit=Find",
     "replacement": [
       "title",
       "season_int",
@@ -20,7 +18,7 @@
     ]
   },
   "search_url_format_movie": {
-    "string_format": "https://search.rlsbb.cc/?s=%s+%04d",
+    "string_format": "https://scene-rls.net/?s=%s+%04d&submit=Find",
     "replacement": [
       "title",
       "year_int"
