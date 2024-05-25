@@ -28,7 +28,7 @@
   },
   "more_pages_indicator": "",
   "next_page_path": "",
-  "next_page_path_attr": "a[href*=rlsbb.cc]",
+  "next_page_path_attr": "h1.entry-title a[href*=rlsbb.cc]",
   "links_on_first_page": false,
   "drill_down_path": "",
   "drill_down_path_attr": "",
