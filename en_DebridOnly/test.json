@@ -10,7 +10,7 @@
   ],
   "base_url": "",
   "search_url_format_episode": {
-    "string_format": "https://scene-rls.net/?s=%s+s%02de%02d&submit=find",
+    "string_format": "https://scene-rls.net/?s=%s+s%02de%02",
     "replacement": [
       "title",
       "season_int",
@@ -18,7 +18,7 @@
     ]
   },
   "search_url_format_movie": {
-    "string_format": "https://scene-rls.net/?s=%s+%04d&submit=find",
+    "string_format": "https://scene-rls.net/?s=%s+%04d",
     "replacement": [
       "title",
       "year_int"
