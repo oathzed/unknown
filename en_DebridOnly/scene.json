@@ -8,7 +8,7 @@
     "scene-rls.net",
     "scene-rls.com"
   ],
-  "base_url": "https://scene-rls.net",
+  "base_url": "http://scene-rls.net",
   "search_url_format_episode": {
     "string_format": "?s=%s+%02d+%02d&submit=find",
     "replacement": [
@@ -18,7 +18,7 @@
     ]
   },
   "search_url_format_movie": {
-    "string_format": "https://scene-rls.net/?s=%s+%04d&submit=Find",
+    "string_format": "?s=%s+%04d&submit=find",
     "replacement": [
       "title",
       "year_int"
