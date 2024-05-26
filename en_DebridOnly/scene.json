@@ -8,9 +8,9 @@
     "scene-rls.net",
     "scene-rls.com"
   ],
-  "base_url": "https://scene-rls.net",
+  "base_url": "",
   "search_url_format_episode": {
-    "string_format": "/?s=%s+s%02de%02d&submit=find",
+    "string_format": "https://scene-rls.net/?s=%s+s%02de%02d&submit=find",
     "replacement": [
       "title",
       "season_int",
@@ -18,7 +18,7 @@
     ]
   },
   "search_url_format_movie": {
-    "string_format": "/?s=%s+%04d&submit=find",
+    "string_format": "https://scene-rls.net/?s=%s+%04d&submit=find",
     "replacement": [
       "title",
       "year_int"
@@ -27,9 +27,9 @@
   "more_pages_indicator": "",
   "next_page_path": "",
   "next_page_path_attr": "",
-  "links_on_first_page": true,
-  "drill_down_path": "",
-  "drill_down_path_attr": "",
+  "links_on_first_page": false,
+  "drill_down_path": "h2.postTitle a",
+  "drill_down_path_attr": "href",
   "is_torrent": false,
   "is_direct": true,
   "links_container_path": "div.postContent",
