@@ -1,10 +1,12 @@
 {
   "name": "Scene",
   "language": [
-    "en"
+    "en",
+    "hi"
   ],
   "domains": [
-    "scene-rls.net"
+    "scene-rls.net",
+    "scene-rls.com"
   ],
   "base_url": "https://scene-rls.net",
   "search_url_format_episode": {
