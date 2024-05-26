@@ -33,7 +33,7 @@
   "is_torrent": false,
   "is_direct": true,
   "links_container_path": "div.postContent",
-  "link_path": "a",
+  "link_path": "h2 > a[target=\"_blank\"]",
   "link_path_attr": "href",
   "title_path": "/title",
   "title_path_attr": "",
