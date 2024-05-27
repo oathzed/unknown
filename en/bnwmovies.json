@@ -1,8 +1,8 @@
 {
-    "name": "bnwmovies",
+    "name": "scrapername",
     "language": ["en"],
-    "domains": ["bnwmovies.com"],
-    "base_url": "https://bnwmovies.com",
+    "domains": ["error123.com"],
+    "base_url": "https://error123.com",
     "search_url_format_episode": {
       "string_format": "",
       "replacement": [
