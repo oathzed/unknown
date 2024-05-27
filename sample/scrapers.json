@@ -1,43 +1,52 @@
 {
 	"1": [
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/btdig.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/badasstorrents.json",		
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/extratorrent.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/onlytorrent.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/topnow.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/torrentdownload.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/extra.json"
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/animetosho.json",		
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/eztv.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/freshmeat.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/ytsws.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/glodls.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/bitlord.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torrentdownload.json",		
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/tp2.json"		
 	],
 	"2": [
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/rapid.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/drop.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/user.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/click.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/yourbittorrent.json"
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/magnetdl.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torrentgalaxy.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/piratebay.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/kickass.json",		
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/onlytorrent.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/solid.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/nyaa.json",		
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/csv.json",		
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/yourbittorrent.json"
 	],
 	"3": [
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/zooqle.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/1337x.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/rarbg.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/ibit.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/limetorrents.json"
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/1337x.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/rarbg.json",		
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/kenben.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/Bitsearch.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/rutor.json",				
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/btcq.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/bull.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/cloud.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/limetorrents.json"
 	],
 	"4": [
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/eztv.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/torlock.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/nyaa.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_Torrent/torlockmovies.json"
-	],
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torrentz2.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torlockseries.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/yts.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/tt2nz.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/btdb.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/ox.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/bt52.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/4movie.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/ptwave.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/isohunt.json",		
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torlockmovies.json"
+	],	
 	"5": [
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_DebridOnly/dllspot.json",
-		"https://raw.githubusercontent.com/oathzed/unknown/main/en_DebridOnly/scenerls.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_DebridOnly/test.json"
-	],
-	"6": [
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_DebridOnly/maxrls.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_DebridOnly/rapidmoviez.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_DebridOnly/f5movies.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_DebridOnly/crazy4tv.json",
-		"https://raw.githubusercontent.com/oathzed/weydtest/main/en_DebridOnly/4movie1.json"
+		"https://raw.githubusercontent.com/oathzed/unknown/main/en_DebridOnly/rlscomment.json",
+		"https://raw.githubusercontent.com/oathzed/unknown/main/en_DebridOnly/rlsmain.json",
+		"https://raw.githubusercontent.com/oathzed/unknown/main/en_DebridOnly/test.json"
 	]
 }
