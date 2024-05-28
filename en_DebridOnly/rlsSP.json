@@ -12,9 +12,9 @@
   ],
   "base_url": "",
   "search_url_format_episode": {
-    "string_format": "https://search.rlsbb.cc/?s=%s+S%02d",
+    "string_format": "https://search.rlsbb.cc/%s-S%02d",
     "replacement": [
-      "title",
+      "title_lower_dash",
       "season_int"
     ]
   },
