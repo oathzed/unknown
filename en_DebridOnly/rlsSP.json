@@ -38,7 +38,7 @@
   "links_on_first_page": false,
   "drill_down_path": "div#post-wrapper h1.entry-title a[href*=rlsbb.cc]",
   "drill_down_path_attr": "href",
-  "is_torrent": true,
+  "is_torrent": false,
   "is_direct": true,
   "links_container_path": "ul.commentList div.messageBox",
   "link_path": "a",
