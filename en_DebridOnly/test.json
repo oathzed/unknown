@@ -4,7 +4,7 @@
   "domains": ["psychodownloads.com"],
   "base_url": "http://psychodownloads.com",
   "search_url_format_episode": {
-    "string_format": "/search/1/?q=%s+S%02dE%02d&t=post&c[child_nodes]=1&c[nodes][0]=19&c[title_only]=1&o=date",
+    "string_format": "/search/15443/?q=%s+S%02dE%02d&t=post&c[child_nodes]=1&c[nodes][0]=19&c[title_only]=1&o=date",
     "replacement": [
       "title",
       "season_int",
