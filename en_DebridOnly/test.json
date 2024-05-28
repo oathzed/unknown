@@ -1,16 +1,10 @@
 {
-  "name": "test",
-  "language": [
-    "en",
-    "hi"
-  ],
-  "domains": [
-    "scene-rls.net",
-    "scene-rls.com"
-  ],
+  "name": "PD",
+  "language": ["en"],
+  "domains": ["psychodownloads.com"],
   "base_url": "",
   "search_url_format_episode": {
-    "string_format": "https://scene-rls.net/?s=%s+S%02dE%02d",
+    "string_format": "https://psychodownloads.com/search/1/?q=%s+S%02dE%02d&t=post&c[child_nodes]=1&c[nodes][0]=19&c[title_only]=1&o=date",
     "replacement": [
       "title",
       "season_int",
@@ -18,7 +12,7 @@
     ]
   },
   "search_url_format_movie": {
-    "string_format": "https://scene-rls.net/?s=%s+%04d",
+    "string_format": "https://psychodownloads.com/search/1/?q=%s+%04d&t=post&c[child_nodes]=1&c[nodes][0]=18&c[title_only]=1&o=date",
     "replacement": [
       "title",
       "year_int"
