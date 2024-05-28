@@ -5,23 +5,23 @@
     "en"
   ],
   "domains": [],
-  "base_url": "",
+  "base_url": "https://hsvideo.vercel.app",
   "search_url_format_episode": {
-    "string_format": "/api.php?q=%s+s%02de%02d",
+    "string_format": "",
     "replacement": []
   },
   "search_url_format_movie": {
-    "string_format": "/api/v2/list_movies.json?query_term=%s&sort_by=seeds&order_by=desc",
+    "string_format": "/vidsrc/%s",
     "replacement": [
       "imdb_id"
     ]
   },
   "api": {
-    "path_to_array": "links",
-    "path_title": "filename",
-    "path_size": "size",
-    "path_seeders": "number_seeders",
-    "path_magnet": "magnet"
+    "path_to_array": "sources",
+    "path_title": "Interstellar 2014",
+    "path_size": "|path_title|",
+    "path_seeders": "|path_title|",
+    "path_magnet": "stream"
   }
   "is_torrent": true,
   "is_direct": false
