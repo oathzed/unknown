@@ -1,5 +1,5 @@
 {
-  "name": "Spack RlsBB",
+  "name": "spack RslBB",
   "language": [
     "hi",
     "en"
@@ -12,11 +12,11 @@
   ],
   "base_url": "",
   "search_url_format_episode": {
-    "string_format": "https://search.rlsbb.cc/%s-S%02d",
+    "string_format": "https://search.rlsbb.cc/?s=%s+S%02dE%02d",
     "replacement": [
       "title",
-      "title_lower_dash",
-      "season_int"
+      "season_int",
+      "episode_int"
     ]
   },
   "search_url_format_movie": {
