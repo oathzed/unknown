@@ -26,7 +26,7 @@
   "drill_down_path_attr": "href",
   "is_torrent": false,
   "is_direct": true,
-  "links_container_path": "article.message--post.js-post.js-inlineModContainer",
+  "links_container_path": "body",
   "link_path": "a",
   "link_path_attr": "href",
   "title_path": "/title",
