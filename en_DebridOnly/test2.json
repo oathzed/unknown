@@ -2,7 +2,7 @@
   "name": "WB",
   "language": ["en"],
   "domains": ["warezbook.org"],
-  "base_url": "https://www.warezbook.org/",
+  "base_url": "https://www.warezbook.org",
   "search_url_format_episode": {
     "string_format": "/?q=%s+S%02dE%02d",
     "replacement": [
@@ -22,7 +22,7 @@
   "next_page_path": "",
   "next_page_path_attr": "",
   "links_on_first_page": false,
-  "drill_down_path": "div#flarum-content ul li a[href*=warezbook.org]",
+  "drill_down_path": "div.DiscussionListItem-content.Slidable-content a[href*=warezbook.org]",
   "drill_down_path_attr": "href",
   "is_torrent": false,
   "is_direct": true,
