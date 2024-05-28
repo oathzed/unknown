@@ -1,14 +1,14 @@
 {
-  "name": "52BT",
+  "name": "testtor",
   "language": [
     "hi",
     "en"
   ],
   "domains": [
-    "529049.xyz",
-    "529050.xyz"
+    "error123.com",
+    "error122.com"
   ],
-  "base_url": "https://529048.xyz",
+  "base_url": "https://error123.com",
   "search_url_format_episode": {
     "string_format": "/search-%s+s%02de%02d-0-0-1.html",
     "replacement": [
