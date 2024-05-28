@@ -1,0 +1,28 @@
+{
+  "name": "apid",
+  "language": [
+    "hi",
+    "en"
+  ],
+  "domains": [],
+  "base_url": "",
+  "search_url_format_episode": {
+    "string_format": "/api.php?q=%s+s%02de%02d",
+    "replacement": []
+  },
+  "search_url_format_movie": {
+    "string_format": "/api/v2/list_movies.json?query_term=%s&sort_by=seeds&order_by=desc",
+    "replacement": [
+      "imdb_id"
+    ]
+  },
+  "api": {
+    "path_to_array": "links",
+    "path_title": "filename",
+    "path_size": "size",
+    "path_seeders": "number_seeders",
+    "path_magnet": "magnet"
+  }
+  "is_torrent": true,
+  "is_direct": false
+}
