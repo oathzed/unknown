@@ -26,7 +26,7 @@
   "drill_down_path_attr": "href",
   "is_torrent": false,
   "is_direct": true,
-  "links_container_path": "div.bbWrapper",
+  "links_container_path": "div.bbWrapper div",
   "link_path": "a.link.link--external",
   "link_path_attr": "href",
   "title_path": "/title",
