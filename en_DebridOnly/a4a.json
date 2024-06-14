@@ -1,10 +1,10 @@
 {
-  "name": "PD",
+  "name": "A4A",
   "language": ["en"],
-  "domains": ["psychodownloads.com"],
-  "base_url": "http://psychodownloads.com",
+  "domains": ["apps4all.com"],
+  "base_url": "https://apps4all.com",
   "search_url_format_episode": {
-    "string_format": "/search/1/?q=%s+S%02dE%02d&t=post&c[child_nodes]=1&c[nodes][0]=19&c[title_only]=1&o=date",
+    "string_format": "/app-search.php?q=%s+S%02dE%02d&log=1&x=0&y=0",
     "replacement": [
       "title",
       "season_int",
@@ -12,7 +12,7 @@
     ]
   },
   "search_url_format_movie": {
-    "string_format": "/search/1/?q=%s+%04d&t=post&c[child_nodes]=1&c[nodes][0]=18&c[title_only]=1&o=date",
+    "string_format": "/app-search.php?q=%s+%04d&log=1&x=0&y=0",
     "replacement": [
       "title",
       "year_int"
@@ -22,12 +22,12 @@
   "next_page_path": "",
   "next_page_path_attr": "",
   "links_on_first_page": false,
-  "drill_down_path": "h3.contentRow-title a",
+  "drill_down_path": "div.dl-name a",
   "drill_down_path_attr": "href",
   "is_torrent": false,
   "is_direct": true,
-  "links_container_path": "div.bbWrapper",
-  "link_path": "a.link.link--external",
+  "links_container_path": "div.content-fill",
+  "link_path": "a",
   "link_path_attr": "href",
   "title_path": "/title",
   "title_path_attr": "",
