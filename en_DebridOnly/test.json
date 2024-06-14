@@ -4,7 +4,7 @@
   "domains": ["psychodownloads.com"],
   "base_url": "https://psychodownloads.com",
   "search_url_format_episode": {
-    "string_format": "/search/16114/?q=%s+S%02dE%02d&t=post&c[child_nodes]=1&c[nodes][0]=19&c[title_only]=1&o=date",
+    "string_format": "/search/1/?q=%s+S%02dE%02d&t=post&c[child_nodes]=1&c[nodes][0]=19&c[title_only]=1&o=date",
     "replacement": [
       "title",
       "season_int",
@@ -27,7 +27,7 @@
   "is_torrent": false,
   "is_direct": true,
   "links_container_path": "div.bbWrapper div",
-  "link_path": "a",
+  "link_path": "a.link.link--external",
   "link_path_attr": "href",
   "title_path": "/title",
   "title_path_attr": "",
