@@ -24,7 +24,7 @@
   "drill_down_path_attr": "",
   "is_torrent": false,
   "is_direct": true,
-  "links_container_path": "div.single-link",
+  "links_container_path": "div.single-link div.NITROFLARE",
   "link_path": "a",
   "link_path_attr": "href",
   "title_path": "/title",
