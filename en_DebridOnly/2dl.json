@@ -1,33 +1,30 @@
 {
-  "name": "PD",
+  "name": "2DL",
   "language": ["en"],
-  "domains": ["psychodownloads.com"],
-  "base_url": "http://psychodownloads.com",
+  "domains": ["twoddl.ws"],
+  "base_url": "https://twoddl.ws",
   "search_url_format_episode": {
-    "string_format": "/search/1/?q=%s+S%02dE%02d&t=post&c[child_nodes]=1&c[nodes][0]=19&c[title_only]=1&o=date",
+    "string_format": "/search/%s",
     "replacement": [
-      "title",
-      "season_int",
-      "episode_int"
+      "title_lower_dash"
     ]
   },
   "search_url_format_movie": {
-    "string_format": "/search/1/?q=%s+%04d&t=post&c[child_nodes]=1&c[nodes][0]=18&c[title_only]=1&o=date",
+    "string_format": "/search/%s",
     "replacement": [
-      "title",
-      "year_int"
+      "title_lower_dash"
     ]
   },
   "more_pages_indicator": "",
   "next_page_path": "",
   "next_page_path_attr": "",
   "links_on_first_page": false,
-  "drill_down_path": "h3.contentRow-title a",
+  "drill_down_path": "div.wrap-main-content h2.title a",
   "drill_down_path_attr": "href",
   "is_torrent": false,
   "is_direct": true,
-  "links_container_path": "div.bbWrapper",
-  "link_path": "a.link.link--external",
+  "links_container_path": "div.multi-link",
+  "link_path": "a",
   "link_path_attr": "href",
   "title_path": "/title",
   "title_path_attr": "",
