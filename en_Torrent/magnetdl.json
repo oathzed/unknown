@@ -13,9 +13,8 @@
     ]
   },
   "search_url_format_movie": {
-    "string_format": "/%.1s/%s-%d/se/desc/",
+    "string_format": "/a/%s-%04d",
     "replacement": [
-      "title_lower",
       "title_lower_dash",
       "year_int"
     ]
