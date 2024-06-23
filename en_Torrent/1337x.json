@@ -25,6 +25,12 @@
 			"year_int"
 		]
 	},
+	"search_url_format_season_pack": {
+		"string_format": "/sort-search/%s/time/desc/1/",
+		"replacement": [
+			"title_lower"
+		]
+	},
 	"more_pages_indicator": "<li class=\"last\">",
 	"next_page_path": "div.pagination ul li.active + li a[href]",
 	"next_page_path_attr": "abs:href",
