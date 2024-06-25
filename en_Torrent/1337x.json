@@ -11,7 +11,7 @@
 	],
 	"base_url": "https://www.1337x.to",
 	"search_url_format_episode": {
-		"string_format": "/sort-search/%s+S%02dE%02d/time/desc/1/",
+		"string_format": "/sort-search/%s+S%02dE%02d/1/",
 		"replacement": [
 			"title",
 			"season_int",
