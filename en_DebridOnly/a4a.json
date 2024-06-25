@@ -4,9 +4,9 @@
   "domains": ["apps4all.com"],
   "base_url": "https://apps4all.com",
   "search_url_format_episode": {
-    "string_format": "/app-search.php?q=%s+s%02de%02d&log=1&x=0&y=0",
+    "string_format": "/app-search.php?q=%s+s%02de%02d&log=1&x=53&y=16",
     "replacement": [
-      "title_lower",
+      "title",
       "season_int",
       "episode_int"
     ]
