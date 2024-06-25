@@ -1,6 +1,5 @@
 {
 	"1": [
-		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/cloud.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/tt2nz.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/solid.json",		
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/glodls.json",
@@ -16,6 +15,7 @@
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/bt52.json"
 	],
 	"3": [
+	        "https://raw.githubusercontent.com/oathzed/unknown/main/en_Torrent/1337x.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/rarbg.json",		
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/Bitsearch.json",				
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/btcq.json",
