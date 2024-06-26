@@ -13,6 +13,7 @@
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/piratebay.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/kickass.json",				
 		"https://raw.githubusercontent.com/oathzed/unknown/main/en_Torrent/csv.json",	
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torlockseries.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/bt52.json"
 	],
 	"3": [
@@ -21,6 +22,7 @@
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/Bitsearch.json",				
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/btcq.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/isohunt.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torlockmovies.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/animetosho.json"
 	],
 	"4": [
