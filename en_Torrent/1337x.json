@@ -11,7 +11,7 @@
 	],
 	"base_url": "https://www.1337x.to",
 	"search_url_format_episode": {
-		"string_format": "/search/%s+S%02dE%02d/1/",
+		"string_format": "/sort-search/%s+S%02dE%02d/time/desc/1/",
 		"replacement": [
 			"title",
 			"season_int",
@@ -34,8 +34,8 @@
 	"is_torrent": true,
 	"is_direct": false,
 	"links_container_path": "div.col-9.page-content",
-	"link_path": "",
-	"link_path_attr": "",
+	"link_path": "a",
+	"link_path_attr": "href",
 	"title_path": "/title",
 	"title_path_attr": "",
 	"details_path": "|title_path|",
