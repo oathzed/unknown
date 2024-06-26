@@ -13,7 +13,7 @@
     ]
   },
   "search_url_format_movie": {
-    "string_format": "/%.1s/%s-%04d/se/desc/",
+    "string_format": "/%.1s/%s-%d/se/desc/",
     "replacement": [
       "title_lower",
       "title_lower_dash",
@@ -35,7 +35,7 @@
   "drill_down_path_attr": "",
   "is_torrent": true,
   "is_direct": false,
-  "links_container_path": "table.download tbody tr:nth-child(odd)",
+  "links_container_path": "tbody tr",
   "link_path": "",
   "link_path_attr": "",
   "title_path": "tr td.n a[title]",
