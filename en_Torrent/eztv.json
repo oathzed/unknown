@@ -20,7 +20,7 @@
   "next_page_path" : "",
   "next_page_path_attr": "",
   "links_on_first_page": false,
-  "drill_down_path": "table.forum_header_border > tr:nth-of-type(3) > td:nth-of-type(2) > a.epinfo",
+  "drill_down_path": "td.forum_thread_post a[href^=/ep/]",
   "drill_down_path_attr": "abs:href",
   "is_torrent": true,
   "is_direct": false,
