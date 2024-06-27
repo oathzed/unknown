@@ -17,7 +17,7 @@
     ]
   },
   "search_url_format_movie": {
-    "string_format": "/search/%s+%04d",
+    "string_format": "/search/0/0/000/0/%s+%04d",
     "replacement": [
       "title_lower",
       "year_int"
@@ -33,7 +33,7 @@
   "next_page_path": "",
   "next_page_path_attr": "",
   "links_on_first_page": false,
-  "drill_down_path": "tbody tr td a[href^=/torrent/]",
+  "drill_down_path": "tbody tr.gai td a[href^=/torrent/]",
   "drill_down_path_attr": "abs:href",
   "is_torrent": true,
   "is_direct": false,
@@ -46,12 +46,12 @@
   "details_path_attr": "",
   "magnet_path": "a[href^=magnet]",
   "magnet_path_attr": "href",
-  "seeders_path": "td:eq(5)",
-  "seeders_path_attr": "",
-  "filesize_path": "td:eq(3)",
-  "filesize_path_attr": "",
-  "quality_path": "|title_path|",
-  "quality_path_attr": "",
-  "info_path": "|title_path|",
-  "info_path_attr": ""
+	"seeders_path": "div.torrent-detail-header:contains(seeders)",
+	"seeders_path_attr": "",
+	"filesize_path": "div.torrent_media_info_list",
+	"filesize_path_attr": "",
+	"quality_path": "|title_path|",
+	"quality_path_attr": "",
+	"info_path": "|title_path|",
+	"info_path_attr": ""
 }
