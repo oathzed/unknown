@@ -1,32 +1,32 @@
 {
-  "name": "A4A",
+  "name": "2ddl",
   "language": ["en"],
-  "domains": ["apps4all.com"],
-  "base_url": "https://apps4all.com",
+  "domains": ["twoddl.w"],
+  "base_url": "https://twoddl.ws",
   "search_url_format_episode": {
-    "string_format": "/app-search.php?q=%s+s%02de%02d&log=1&x=0&y=0",
+    "string_format": "/%s-s%02de%02d-beware-the-jabberwock-my-son-2160p-amzn-web-dl-ddp5-1-hdr-h-265-ntb",
     "replacement": [
-      "title_lower",
+      "title_lower_dash",
       "season_int",
       "episode_int"
     ]
   },
   "search_url_format_movie": {
-    "string_format": "/app-search.php?q=%s+%04d&log=1&x=0&y=0",
+    "string_format": "/%s-%04d",
     "replacement": [
-      "title_lower",
+      "title_lower_dash",
       "year_int"
     ]
   },
   "more_pages_indicator": "",
   "next_page_path": "",
   "next_page_path_attr": "",
-  "links_on_first_page": false,
-  "drill_down_path": "div.content-fill div.dl-name a[href*=a1756129]",
-  "drill_down_path_attr": "abs:href",
+  "links_on_first_page": true,
+  "drill_down_path": "",
+  "drill_down_path_attr": "",
   "is_torrent": false,
   "is_direct": true,
-  "links_container_path": "div.content-fill",
+  "links_container_path": "div.single-link",
   "link_path": "a",
   "link_path_attr": "href",
   "title_path": "/title",
