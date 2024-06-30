@@ -1,15 +1,15 @@
 {
-	"name": "TD",
+	"name": "Rutor",
 	"language": [
 		"en",
 		"hi"
 	],
 	"domains": [
-		"torrentdownloads.pro"
+		"rutor.info"
 	],
-	"base_url": "https://www.torrentdownloads.pro",
+	"base_url": "https://www.rutor.info",
 	"search_url_format_episode": {
-		"string_format": "/search/?search=%s+S%02dE%02d",
+		"string_format": "/search/0/0/000/0/%s+%02dx%02d",
 		"replacement": [
 			"title",
 			"season_int",
@@ -17,14 +17,14 @@
 		]
 	},
 	"search_url_format_movie": {
-		"string_format": "/search/?search=%s+%04d",
+		"string_format": "/search/0/0/000/0/%s+%04d",
 		"replacement": [
 			"title",
 			"year_int"
 		]
 	},
 	"search_url_format_season_pack": {
-		"string_format": "/search/?search=%s",
+		"string_format": "/search/0/0/000/0/%s",
 		"replacement": [
 			"title"
 		]
@@ -33,11 +33,11 @@
 	"next_page_path": "",
 	"next_page_path_attr": "",
 	"links_on_first_page": false,
-	"drill_down_path": "div.left_shadow a[href^=/torrent]",
+	"drill_down_path": "div#index a[href^=/torrent]",
 	"drill_down_path_attr": "abs:href",
 	"is_torrent": true,
 	"is_direct": false,
-	"links_container_path": "div.grey_bar1.back_none",
+	"links_container_path": "div#download",
 	"link_path": "",
 	"link_path_attr": "",
 	"title_path": "/title",
