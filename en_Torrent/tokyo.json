@@ -1,8 +1,8 @@
 {
-	"name": "nyaa",
+	"name": "TokyoT",
 	"language": ["en"],
-	"domains": ["nyaa.land", "nyaa.si"],
-	"base_url": "https://nyaa.si",
+	"domains": ["tokyotosho.info"],
+	"base_url": "https://tokyotosho.info",
 	"search_url_format_episode": {
 		"string_format": "/?q=%s+S%02dE%02d&f=0&c=0_0&s=seeders&o=desc",
 		"replacement": [
