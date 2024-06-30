@@ -4,7 +4,7 @@
 	"domains": ["tokyotosho.info"],
 	"base_url": "https://tokyotosho.info",
 	"search_url_format_episode": {
-		"string_format": "/?q=%s+S%02dE%02d&f=0&c=0_0&s=seeders&o=desc",
+		"string_format": "/search.php?terms=%s+S%02dE%02d&type=0&searchName=true&searchComment=true&size_min=&size_max=&username=",
 		"replacement": [
 			"title",
 			"season_int",
@@ -14,14 +14,14 @@
 	},
 
 	"search_url_format_movie": {
-		"string_format": "/?q=%s+%04d&f=0&c=0_0&s=seeders&o=desc",
+		"string_format": "/search.php?terms=%s+%04d&type=0&searchName=true&searchComment=true&size_min=&size_max=&username=",
 		"replacement": [
 			"title",
 			"year_int"
 		]
 	},
 	"search_url_format_season_pack": {
-		"string_format": "/?q=%s&f=0&c=0_0&s=seeders&o=desc",
+		"string_format": "/search.php?terms=%s&type=0&searchName=true&searchComment=true&size_min=&size_max=&username=",
 		"replacement": [
 			"title"
 		]
