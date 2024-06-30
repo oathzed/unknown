@@ -37,7 +37,7 @@
 	"drill_down_path_attr": "abs:href",
 	"is_torrent": true,
 	"is_direct": false,
-	"links_container_path": "div.grey_bar1.back_none",
+	"links_container_path": "div.title_bar1 div.grey_bar1.back_none",
 	"link_path": "",
 	"link_path_attr": "",
 	"title_path": "/title",
