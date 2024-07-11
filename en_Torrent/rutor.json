@@ -7,7 +7,7 @@
   "domains": [
     "rutor.info"
   ],
-  "base_url": "https://sitenable.ch/o.php?b=21&f=norefer&pv=0&mobile=&u=http://rutor.info",
+  "base_url": "https://rutor.info",
   "search_url_format_episode": {
     "string_format": "/search/%s+%02dx%02d",
     "replacement": [
@@ -17,16 +17,16 @@
     ]
   },
   "search_url_format_movie": {
-    "string_format": "/search/%s+%04d",
+    "string_format": "/search/0/0/010/0/%s+%04d",
     "replacement": [
-      "title_lower",
+      "title",
       "year_int"
     ]
   },
   "search_url_format_season_pack": {
-    "string_format": "/search/%s",
+    "string_format": "/search/0/0/010/0/%s",
     "replacement": [
-      "title_lower"
+      "title"
     ]
   },
   "more_pages_indicator": "",
