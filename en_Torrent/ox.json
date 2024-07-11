@@ -23,7 +23,7 @@
       "year_int"
     ]
   },
-	"search_url_format_season_pack": {
+"search_url_format_season_pack": {
 		"string_format": "/recherche/%s",
 		"replacement": [
 			"title"
