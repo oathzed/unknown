@@ -5,21 +5,21 @@
   ],
   "domains": [
     "oxtorrent.co",
-    "oxtorrent.io"
+    "oxtorrent.blog"
   ],
   "base_url": "https://www.oxtorrent.co",
   "search_url_format_episode": {
-    "string_format": "/recherche/%s-s%02de%02d",
+    "string_format": "/recherche/%s+s%02de%02d",
     "replacement": [
-      "title",
+      "title_lower",
       "season_int",
       "episode_int"
     ]
   },
   "search_url_format_movie": {
-    "string_format": "/recherche/%s-%04d",
+    "string_format": "/recherche/%s+%04d",
     "replacement": [
-      "title",
+      "title_lower",
       "year_int"
     ]
   },
