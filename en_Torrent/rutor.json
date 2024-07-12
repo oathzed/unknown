@@ -7,7 +7,7 @@
   "domains": [
     "rutor.info"
   ],
-  "base_url": "https://rutor.info",
+  "base_url": "https://sitenable.ch/o.php?b=21&f=norefer&pv=0&mobile=&u=http://rutor.info",
   "search_url_format_episode": {
     "string_format": "/search/%s+%02dx%02d",
     "replacement": [
@@ -19,7 +19,7 @@
   "search_url_format_movie": {
     "string_format": "/search/0/0/010/0/%s+%04d",
     "replacement": [
-      "title",
+      "title_lower",
       "year_int"
     ]
   },
