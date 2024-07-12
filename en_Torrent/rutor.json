@@ -20,7 +20,7 @@
     "string_format": "/search/0/0/010/0/%s+%04d",
     "replacement": [
       "title",
-      "year_text"
+      "year_int"
     ]
   },
   "search_url_format_season_pack": {
