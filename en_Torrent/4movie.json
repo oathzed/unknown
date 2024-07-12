@@ -5,18 +5,17 @@
 		"en"
 	],
 	"domains": [
-		"rapidmoviez.be",
-		"7movierulz.lv"
+		"7movierulz.dev"
 	],
-	"base_url": "https://www.7movierulz.tax",
+	"base_url": "https://www.7movierulz.dev",
 	"search_url_format_episode": {
 		"string_format": "",
 		"replacement": []
 	},
 	"search_url_format_movie": {
-		"string_format": "/?s=%s+%04d",
+		"string_format": "/search_movies?s=%s+%04d",
 		"replacement": [
-			"title_lower",
+			"title",
 			"year_int"
 		]
 	},
@@ -24,7 +23,7 @@
 	"next_page_path": "",
 	"next_page_path_attr": "",
 	"links_on_first_page": false,
-	"drill_down_path": "div.featured a",
+	"drill_down_path": "ul li div.boxed.film a",
 	"drill_down_path_attr": "href",
 	"is_torrent": true,
 	"is_direct": false,
