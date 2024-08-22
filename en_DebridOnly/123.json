@@ -1,15 +1,15 @@
 {
-  "name": "WGE",
+  "name": "123FD",
   "language": [
     "hi",
     "en"
   ],
   "domains": [
-    "warez.ge"
+    "123freedownload.com"
   ],
-  "base_url": "https://warez.ge",
+  "base_url": "https://123freedownload.com",
   "search_url_format_episode": {
-    "string_format": "https://warez.ge/?s=%s+S%02dE%02d",
+    "string_format": "https://123freedownload.com/?s=%s+S%02dE%02d",
     "replacement": [
       "title",
       "season_int",
@@ -17,7 +17,7 @@
     ]
   },
   "search_url_format_movie": {
-    "string_format": "https://search.rlsbb.cc/?s=%s+%04d",
+    "string_format": "https://123freedownload.com/?s=%s+%04d",
     "replacement": [
       "title",
       "year_int"
@@ -27,11 +27,11 @@
   "next_page_path": "",
   "next_page_path_attr": "",
   "links_on_first_page": false,
-  "drill_down_path": "div#post-wrapper h1.entry-title a[href*=rlsbb.cc]",
+  "drill_down_path": "div.post-header h2.post-title a[href*=123freedownload.com]",
   "drill_down_path_attr": "href",
   "is_torrent": false,
   "is_direct": true,
-  "links_container_path": "ul.commentList div.messageBox",
+  "links_container_path": "div.post-content",
   "link_path": "a",
   "link_path_attr": "href",
   "title_path": "/title",
