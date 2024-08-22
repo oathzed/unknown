@@ -1,18 +1,15 @@
 {
-  "name": "Comment RlsBB",
+  "name": "WGE",
   "language": [
     "hi",
     "en"
   ],
   "domains": [
-    "rlsbb.ru",
-    "rlsbb.to",
-    "rlsbb.com",
-    "rlsbb.unblocked.cx"
+    "warez.ge"
   ],
-  "base_url": "",
+  "base_url": "https://warez.ge",
   "search_url_format_episode": {
-    "string_format": "https://search.rlsbb.cc/?s=%s+S%02dE%02d",
+    "string_format": "https://warez.ge/?s=%s+S%02dE%02d",
     "replacement": [
       "title",
       "season_int",
