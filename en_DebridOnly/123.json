@@ -27,7 +27,7 @@
   "next_page_path": "",
   "next_page_path_attr": "",
   "links_on_first_page": false,
-  "drill_down_path": "div.post-header h2.post-title a[href*=123freedownload.com]",
+  "drill_down_path": "div.'post-header' h2.'post-title' a[href*=123freedownload.com]",
   "drill_down_path_attr": "href",
   "is_torrent": false,
   "is_direct": true,
