@@ -1,13 +1,13 @@
 {
-  "name": "Rls One",
+  "name": "Katz",
   "language": [
     "hi",
     "en"
   ],
   "domains": [
-    "rls1.nu"
+    "katzdownload.com"
   ],
-  "base_url": "https://rls1.nu",
+  "base_url": "https://katzdownload.com",
   "search_url_format_episode": {
     "string_format": "/?s=%s+S%02dE%02d",
     "replacement": [
