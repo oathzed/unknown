@@ -1,13 +1,13 @@
 {
-  "name": "Drip",
+  "name": "WSerbia",
   "language": [
     "hi",
     "en"
   ],
   "domains": [
-    "downloadrips.com"
+    "warez-serbia.net"
   ],
-  "base_url": "https://downloadrips.com",
+  "base_url": "https://warez-serbia.net",
   "search_url_format_episode": {
     "string_format": "/?s=%s+S%02dE%02d",
     "replacement": [
@@ -27,11 +27,11 @@
   "next_page_path": "",
   "next_page_path_attr": "",
   "links_on_first_page": false,
-  "drill_down_path": "h2.entry-title a[href*=downloadrips.com]",
+  "drill_down_path": "h2.title a[href*=warez-serbia.net]",
   "drill_down_path_attr": "href",
   "is_torrent": false,
   "is_direct": true,
-  "links_container_path": "div.entry-content",
+  "links_container_path": "div#content p",
   "link_path": "a",
   "link_path_attr": "href",
   "title_path": "/title",
