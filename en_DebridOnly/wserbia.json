@@ -31,7 +31,7 @@
   "drill_down_path_attr": "href",
   "is_torrent": false,
   "is_direct": true,
-  "links_container_path": "div.single_post div p",
+  "links_container_path": "div p",
   "link_path": "a",
   "link_path_attr": "href",
   "title_path": "/title",
