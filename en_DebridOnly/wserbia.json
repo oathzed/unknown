@@ -31,7 +31,7 @@
   "drill_down_path_attr": "href",
   "is_torrent": false,
   "is_direct": true,
-  "links_container_path": "div.single_post div",
+  "links_container_path": "div",
   "link_path": "a",
   "link_path_attr": "href",
   "title_path": "/title",
@@ -44,7 +44,7 @@
   "seeders_path_attr": "",
   "filesize_path": "p:contains('size:')",
   "filesize_path_attr": "",
-  "quality_path": "|title_path|",
+  "quality_path": "|link_path|",
   "quality_path_attr": "",
   "info_path": "|title_path|",
   "info_path_attr": ""
