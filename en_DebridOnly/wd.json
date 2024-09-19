@@ -1,13 +1,13 @@
 {
-  "name": "123FD",
+  "name": "WD",
   "language": [
     "hi",
     "en"
   ],
   "domains": [
-    "123freedownload.com"
+    "warezdownload.net"
   ],
-  "base_url": "https://123freedownload.com",
+  "base_url": "https://warezdownload.net",
   "search_url_format_episode": {
     "string_format": "/?s=%s+S%02dE%02d",
     "replacement": [
@@ -27,11 +27,11 @@
   "next_page_path": "",
   "next_page_path_attr": "",
   "links_on_first_page": false,
-  "drill_down_path": "div.post-header h2.post-title a[href*=123freedownload.com]",
+  "drill_down_path": "h2.title a[href*=warezdownload.net]",
   "drill_down_path_attr": "href",
   "is_torrent": false,
   "is_direct": true,
-  "links_container_path": "div.post-content",
+  "links_container_path": "div.post-info",
   "link_path": "a",
   "link_path_attr": "href",
   "title_path": "/title",
