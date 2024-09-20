@@ -27,7 +27,7 @@
   "next_page_path": "",
   "next_page_path_attr": "",
   "links_on_first_page": false,
-  "drill_down_path": "h2.title a[href*=warezdownload.net]",
+  "drill_down_path": "div#content h2.title a[href*=warezdownload.net]",
   "drill_down_path_attr": "href",
   "is_torrent": false,
   "is_direct": true,
@@ -44,7 +44,7 @@
   "seeders_path_attr": "",
   "filesize_path": "p:contains('size:')",
   "filesize_path_attr": "",
-  "quality_path": "|link_path|",
+  "quality_path": "|title_path|",
   "quality_path_attr": "",
   "info_path": "|title_path|",
   "info_path_attr": ""
