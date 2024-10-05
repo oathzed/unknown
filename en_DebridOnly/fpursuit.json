@@ -1,15 +1,15 @@
 {
-  "name": "WSerbia",
+  "name": "FPursuit",
   "language": [
     "hi",
     "en"
   ],
   "domains": [
-    "warez-serbia.net"
+    "filepursuit.com"
   ],
-  "base_url": "https://warez-serbia.net",
+  "base_url": "https://filepursuit.com",
   "search_url_format_episode": {
-    "string_format": "/?s=%s+S%02dE%02d",
+    "string_format": "/pursuit?q=%s+S%02dE%02d&type=video&sort=datedesc",
     "replacement": [
       "title",
       "season_int",
@@ -17,7 +17,7 @@
     ]
   },
   "search_url_format_movie": {
-    "string_format": "/?s=%s+%04d",
+    "string_format": "/pursuit?q=%s+%04d&type=video&sort=datedesc",
     "replacement": [
       "title",
       "year_int"
@@ -27,8 +27,8 @@
   "next_page_path": "",
   "next_page_path_attr": "",
   "links_on_first_page": false,
-  "drill_down_path": "h2.title a[href*=warez-serbia.net]",
-  "drill_down_path_attr": "href",
+  "drill_down_path": "div.row div.mb-4.mb-md-0.mr-6 a[href^=/file]",
+  "drill_down_path_attr": "abs:href",
   "is_torrent": false,
   "is_direct": true,
   "links_container_path": "div",
@@ -44,7 +44,7 @@
   "seeders_path_attr": "",
   "filesize_path": "p:contains('size:')",
   "filesize_path_attr": "",
-  "quality_path": "|link_path|",
+  "quality_path": "|title_path|",
   "quality_path_attr": "",
   "info_path": "|title_path|",
   "info_path_attr": ""
