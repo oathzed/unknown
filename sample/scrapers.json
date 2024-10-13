@@ -1,5 +1,6 @@
 {
 	"1": [
+		"https://raw.githubusercontent.com/oathzed/unknown/main/en_DebridOnly/pd.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/cloud.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/tt2nz.json",
 		"https://raw.githubusercontent.com/oathzed/unknown/main/en_Torrent/eztv.json",
@@ -10,6 +11,7 @@
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/yourbittorrent.json"		
 	],
 	"2": [
+		"https://raw.githubusercontent.com/oathzed/unknown/main/en_DebridOnly/drip.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/kenben.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torrentdownload.json",	
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/piratebay.json",
@@ -20,6 +22,7 @@
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/bt52.json"	
 	],
 	"3": [
+		"https://raw.githubusercontent.com/oathzed/unknown/main/en_DebridOnly/dd.json",
 	        "https://raw.githubusercontent.com/oathzed/unknown/main/en_Torrent/1337x.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/rarbg.json",		
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/Bitsearch.json",				
@@ -37,11 +40,8 @@
 		"https://raw.githubusercontent.com/oathzed/unknown/main/en_DebridOnly/rlscomment.json",
 		"https://raw.githubusercontent.com/oathzed/unknown/main/en_DebridOnly/rlsmain.json",
 		"https://raw.githubusercontent.com/oathzed/unknown/main/en_DebridOnly/rlsrapid.json",
-		"https://raw.githubusercontent.com/oathzed/unknown/main/en_DebridOnly/pd.json",
 		"https://raw.githubusercontent.com/oathzed/unknown/main/en_DebridOnly/123.json",
 	        "https://raw.githubusercontent.com/oathzed/unknown/main/en_DebridOnly/wd.json",
-		"https://raw.githubusercontent.com/oathzed/unknown/main/en_DebridOnly/wb.json",	
-		"https://raw.githubusercontent.com/oathzed/unknown/main/en_DebridOnly/drip.json",
 		"https://raw.githubusercontent.com/oathzed/unknown/main/en_DebridOnly/rone.json",
 		"https://raw.githubusercontent.com/oathzed/unknown/main/en_DebridOnly/wserbia.json"
 	]
