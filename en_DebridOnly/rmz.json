@@ -1,10 +1,10 @@
 {
   "name": "DD",
   "language": ["en"],
-  "domains": ["downduck.com"],
-  "base_url": "https://downduck.com",
+  "domains": ["rapidmoviez.me"],
+  "base_url": "https://rapidmoviez.me",
   "search_url_format_episode": {
-    "string_format": "/search/1/?q=%s+S%02dE%02d&c[title_only]=1&o=date",
+    "string_format": "/search/%s+S%02dE%02d/all/exact",
     "replacement": [
       "title",
       "season_int",
@@ -12,7 +12,7 @@
     ]
   },
   "search_url_format_movie": {
-    "string_format": "/search/1/?q=%s+%04d&c[title_only]=1&o=date",
+    "string_format": "/search/%s+%04d/all/exact",
     "replacement": [
       "title",
       "year_int"
@@ -22,11 +22,11 @@
   "next_page_path": "",
   "next_page_path_attr": "",
   "links_on_first_page": false,
-  "drill_down_path": "div.contentRow-main h3.contentRow-title a[href*=threads]",
+  "drill_down_path": "div.list_items ul li a.title a[href*=release]",
   "drill_down_path_attr": "abs:href",
   "is_torrent": false,
   "is_direct": true,
-  "links_container_path": "div.bbWrapper",
+  "links_container_path": "pre.links",
   "link_path": "a",
   "link_path_attr": "href",
   "title_path": "/title",
