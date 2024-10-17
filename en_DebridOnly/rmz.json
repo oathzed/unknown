@@ -27,7 +27,7 @@
   "is_torrent": false,
   "is_direct": true,
   "links_container_path": "div[style*='position:relative']",
-  "link_path": "h4.links:contains('NitroFlare') + pre.links",
+  "link_path": "pre.links",
   "link_path_attr": "text",
   "title_path": "/title",
   "title_path_attr": "",
