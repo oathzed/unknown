@@ -1,5 +1,5 @@
 {
-  "name": "DD",
+  "name": "RMZ",
   "language": ["en"],
   "domains": ["rapidmoviez.me"],
   "base_url": "https://rapidmoviez.me",
@@ -26,8 +26,8 @@
   "drill_down_path_attr": "abs:href",
   "is_torrent": false,
   "is_direct": true,
-  "links_container_path": "div[style*='position:relative']",
-  "link_path": "pre.links",
+  "links_container_path": "div.[style*='position:relative']",
+  "link_path": "h4.links:contains('NitroFlare') + pre.links",
   "link_path_attr": "text",
   "title_path": "/title",
   "title_path_attr": "",
@@ -39,7 +39,7 @@
   "seeders_path_attr": "",
   "filesize_path": "p:contains('size:')",
   "filesize_path_attr": "",
-  "quality_path": "|link_path|",
+  "quality_path": "|title_path|",
   "quality_path_attr": "",
   "info_path": "|title_path|",
   "info_path_attr": ""
